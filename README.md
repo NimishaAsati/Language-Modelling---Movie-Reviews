@@ -1,4 +1,4 @@
-# Language-Modelling---Movie-Reviews
+# Language-Modelling---Movie Reviews Generation
 Generate movie reviews for torchtext IMDB dataset using LSTM based Language Model
 
 ## 1) Built a Markov (n-gram) language model
